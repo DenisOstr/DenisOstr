@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @DenisOstr
 - 👀 I’m interested in Frontend and Mobile development
+- 💻 I'm currently working with Vue 3 / Nuxt 3 and Apollo GraphQL
 - 🌱 I’m currently learning GraphQL and Flutter for creating mobile applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me enviside@proton.me / denisostrovskis1@gmail.com
